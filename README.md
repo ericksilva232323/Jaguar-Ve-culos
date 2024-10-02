@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Turmas e Atividades
 ### [Projetos, Aula07, 3DES, Senai2024](https://github.com/wellifabio/senai2024/tree/main/ds/3des/01-proj/aula07)
 
@@ -34,3 +35,6 @@ npx nodemon
 7. Inicie o Front-End navegando até a pasta **front** e abrindo o arquivo **index.html** no navegador ou com Live Server do VsCode.
 
 ![Wireframe](./docs/wireframe01.png)
+=======
+
+>>>>>>> b8baec2a3cf4082531dc786f667dc772a76a012f
