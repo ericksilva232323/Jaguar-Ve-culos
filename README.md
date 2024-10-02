@@ -33,4 +33,3 @@ npx nodemon
 ```
 7. Inicie o Front-End navegando até a pasta **front** e abrindo o arquivo **index.html** no navegador ou com Live Server do VsCode.
 
-![Wireframe](./docs/wireframe01.png)
