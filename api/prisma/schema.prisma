@@ -39,5 +39,4 @@ model Alocacao{
   quantidade Int
   automovel Automoveis[]
   concessionaria Concessionaria[]
-
 }
